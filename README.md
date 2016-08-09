@@ -42,6 +42,10 @@ Collection of open source examples, libraries and starter-kits for [Telegram Bot
 + [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - A simple, but extensible Python implementation for the Telegram Bot API
 + [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 
+### .Net
++[MrRoundRobin-bot](https://github.com/MrRoundRobin/telegram.bot) -C# library to talk to Telegrams Bot API
++[TLSharp](https://github.com/sochix/TLSharp) -Telegram (http://telegram.org) client library implemented in C#. Only basic functionality is currently implemented.
+
 ## Examples
 
 ### Go
@@ -53,3 +57,6 @@ Collection of open source examples, libraries and starter-kits for [Telegram Bot
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
 + [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
 + [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
+
+### .Net
+ +[MrRoundRobin-example](https://github.com/MrRoundRobin/telegram.bot.examples) - example MrRoundRobin-bot
