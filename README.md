@@ -2,6 +2,8 @@
 
 Collection of open source examples, libraries and starter-kits for [Telegram Bots](https://telegram.org/blog/bot-revolution) to speed up your learning process.
 
+Also take a minute and have a look at some interesting channels and groups in [awesome-telegram-chats](https://github.com/A-gambit/awesome-telegram-chats).
+
 ## Content
 
 1. [Examples](#examples)
