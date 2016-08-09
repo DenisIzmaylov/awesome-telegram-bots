@@ -40,6 +40,10 @@ A curated list of examples, libraries and starter-kits for [Telegram Bots](https
 
 ## Examples
 
+### Go
+
++ [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
+
 ### Python
 
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
