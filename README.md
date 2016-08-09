@@ -94,3 +94,4 @@ Also take a minute and have a look at some interesting channels and groups in [a
 1. Your contributions and suggestions are heartily welcome!
 2. Please use the following message pattern for your commits: "Add [resource-id] to [section] / [language]", e.g:
    ```Add confstat bot to Examples / Python```
+3. Provide URL to the repo on GitHub or BitBucket (or something else) instead of official web-site URL.
