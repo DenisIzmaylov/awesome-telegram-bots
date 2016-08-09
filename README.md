@@ -4,9 +4,9 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 
 ## Content
 
-1. Starter Kits
-2. Libraries
-3. Examples
+1. [Starter Kits](#starter-kits)
+2. [Libraries](#libraries)
+3. [Examples](#examples)
 
 ## Starter Kits
 
