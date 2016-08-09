@@ -10,13 +10,7 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 
 ## Starter Kits
 
-## Python
-
-+ [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine
-
-## Ruby
-
-+ [ruby-telegram-bot-starter-kit](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit) - Ruby Telegram boilerplate for creating awesome bots
++ Will be awesome soon.
 
 ## Libraries
 
@@ -29,14 +23,14 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 + [gotelebot](https://github.com/eternnoir/gotelebot) – Implementation for the Telegram Bot API
 + [integram](https://integram.org/) – Integrate Telegram into your workflow
 
-### Node.js
-
-+ [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
-
 ### Python
 
 + [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - A simple, but extensible Python implementation for the Telegram Bot API
 + [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
+
+### .Net
++[MrRoundRobin-bot](https://github.com/MrRoundRobin/telegram.bot) -C# library to talk to Telegrams Bot API
++[TLSharp](https://github.com/sochix/TLSharp) -Telegram (http://telegram.org) client library implemented in C#. Only basic functionality is currently implemented.
 
 ## Examples
 
@@ -45,3 +39,9 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
 + [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
 + [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
+
+
+### .Net
++[MrRoundRobin-example](https://github.com/MrRoundRobin/telegram.bot.examples) - example MrRoundRobin-bot
+
+
