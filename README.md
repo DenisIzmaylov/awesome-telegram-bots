@@ -1,6 +1,6 @@
 # Awesome Telegram Bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of examples, libraries and starter-kits for [Telegram](https://telegram.org) Bots.
+A curated list of examples, libraries and starter-kits for [Telegram](https://telegram.org) Bots to spead up the your learning process.
 
 ## Content
 
@@ -34,5 +34,6 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
 + [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
++ [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
 
 
