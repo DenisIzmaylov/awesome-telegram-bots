@@ -29,7 +29,8 @@ Collection of open source examples, libraries and starter-kits for [Telegram Bot
 + [mtproto](https://github.com/sdidyk/mtproto) - MTProto implementation in Golang
 + [telegram-bot](https://github.com/yagop/telegram-bot) – A Telegram Bot based on plugins
 + [gotelebot](https://github.com/eternnoir/gotelebot) – Implementation for the Telegram Bot API
-+ [integram](https://integram.org/) – Integrate Telegram into your workflow
++ [integram](https://github.com/Requilence/integram) – Integrate Telegram into your workflow
++ [telegram](https://github.com/bot-api/telegram) - Implementation for the telegram bot API
 
 ### Node.js
 
