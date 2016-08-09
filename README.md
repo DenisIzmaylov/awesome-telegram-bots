@@ -24,6 +24,10 @@ Also take a minute and have a look at some interesting channels and groups in [a
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
 
+### Ruby
+
++ [money_bot](https://github.com/m4rr/money_bot) - Simple currency converter bot with a well-designed UX
+
 ### Rust
 + [git4telegram](https://github.com/friktor/git4telegram) - Telegram bot for work with git
 
@@ -72,7 +76,6 @@ Also take a minute and have a look at some interesting channels and groups in [a
 ## Ruby
 
 + [ruby-telegram-bot-starter-kit](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit) - Ruby Telegram boilerplate for creating awesome bots
-+ [money_bot](https://github.com/m4rr/money_bot) - Simple currency converter bot with a well-designed UX.
 
 ## Tools
 
