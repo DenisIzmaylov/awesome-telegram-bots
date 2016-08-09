@@ -14,6 +14,10 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 
 + [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine
 
+## Ruby
+
++ [ruby-telegram-bot-starter-kit](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit) - Ruby Telegram boilerplate for creating awesome bots
+
 ## Libraries
 
 ### Go
