@@ -1,6 +1,8 @@
 # Awesome Telegram Bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Did you think to create a Telegram Bot? Or you have already did it and would like to improve your skills? This curated list helps you. That is a collection of open source examples, libraries and starter-kits for [Telegram Bots](https://telegram.org/blog/bot-revolution) to speed up your learning process.
+Did you think to create a Telegram Bot? Or you have already did it and would like to improve your skills? This curated list helps you.
+
+That is a collection of Open Source Examples, Libraries and Starter Kits for [Telegram Bots](https://telegram.org/blog/bot-revolution) to speed up your learning process.
 
 Also take a minute and have a look at some interesting channels and groups in [awesome-telegram-chats](https://github.com/A-gambit/awesome-telegram-chats).
 
