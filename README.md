@@ -70,6 +70,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [node-telegram-bot](https://github.com/depoio/node-telegram-bot) - Client wrapper for Telegram Bot API (Under heavy development)
 + [telegram-node-bot](https://github.com/naltox/telegram-node-bot) - Node module for creating Telegram bots
 + [cycle-telegram](https://github.com/goodmind/cycle-telegram) - A Cycle.js driver for Telegram Bot API (Under development)
++ [telegraf](https://github.com/telegraf/telegraf) - 📢 Telegram bot framework for Node.js
 
 ### Python
 
@@ -77,6 +78,10 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 
 ## Starter Kits
+
+### PHP
+
++ [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) - pure PHP Telegram Bot, fully extensible via plugins
 
 ## Python
 
@@ -95,3 +100,4 @@ Also take a minute and have a look at some interesting channels and groups in [a
 1. Your contributions and suggestions are heartily welcome!
 2. Please use the following message pattern for your commits: "Add [resource-id] to [section] / [language]", e.g:
    ```Add confstat bot to Examples / Python```
+3. Provide URL to the repo on GitHub or BitBucket (or something else) instead of official web-site URL.
