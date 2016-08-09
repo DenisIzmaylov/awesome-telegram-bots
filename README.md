@@ -7,6 +7,8 @@ Collection of open source examples, libraries and starter-kits for [Telegram Bot
 1. [Starter Kits](#starter-kits)
 2. [Libraries](#libraries)
 3. [Examples](#examples)
+4. [Tools](#tools)
+5. [Contribution](#contribution)
 
 ## Starter Kits
 
@@ -53,3 +55,14 @@ Collection of open source examples, libraries and starter-kits for [Telegram Bot
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
 + [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
 + [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
+
+## Tools
+
++ [Botan](http://botan.io/) - The most advanced analytics for your Telegram bot by Yandex
+
+## Contribution
+
+1. Your contributions and suggestions are heartily welcome!
+2. Please use the following message pattern for your commits: "Add [resource-id] to [section] / [language]", e.g:
+
+   ```Add confstat bot to Examples / Python```
