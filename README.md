@@ -26,6 +26,7 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 ### Python
 
 + [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - A simple, but extensible Python implementation for the Telegram Bot API
++ [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 
 ## Examples
 
