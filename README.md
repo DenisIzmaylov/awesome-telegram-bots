@@ -20,9 +20,8 @@ Also take a minute and have a look at some interesting channels and groups in [a
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
 
-### Node.js
-
-+ [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA
+### Rust
++ [git4telegram](https://github.com/friktor/git4telegram) - Telegram bot for work with git
 
 ### Python
 
