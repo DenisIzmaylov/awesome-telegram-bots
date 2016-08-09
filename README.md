@@ -78,6 +78,10 @@ Also take a minute and have a look at some interesting channels and groups in [a
 
 ## Starter Kits
 
+### PHP
+
++ [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) - pure PHP Telegram Bot, fully extensible via plugins
+
 ## Python
 
 + [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine
