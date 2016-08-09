@@ -16,6 +16,10 @@ Also take a minute and have a look at some interesting channels and groups in [a
 
 ## Examples
 
+### DotNET
+
++ [MrRoundRobin-example](https://github.com/MrRoundRobin/telegram.bot.examples) - example MrRoundRobin-bot
+
 ### Go
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
@@ -30,6 +34,11 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
 
 ## Libraries
+
+### DotNET
+
++ [MrRoundRobin-bot](https://github.com/MrRoundRobin/telegram.bot) - CSharp library to talk to Telegrams Bot API
++ [TLSharp](https://github.com/sochix/TLSharp) - Telegram client library implemented in CSharp, only basic functionality is currently implemented
 
 ### Go
 
