@@ -4,21 +4,23 @@ Collection of open source examples, libraries and starter-kits for [Telegram Bot
 
 ## Content
 
-1. [Starter Kits](#starter-kits)
+1. [Examples](#examples)
 2. [Libraries](#libraries)
-3. [Examples](#examples)
+3. [Starter Kits](#starter-kits)
 4. [Tools](#tools)
 5. [Contribution](#contribution)
 
-## Starter Kits
+## Examples
 
-## Python
+### Go
 
-+ [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine
++ [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
 
-## Ruby
+### Python
 
-+ [ruby-telegram-bot-starter-kit](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit) - Ruby Telegram boilerplate for creating awesome bots
++ [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
++ [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
++ [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
 
 ## Libraries
 
@@ -45,17 +47,15 @@ Collection of open source examples, libraries and starter-kits for [Telegram Bot
 + [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - A simple, but extensible Python implementation for the Telegram Bot API
 + [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 
-## Examples
+## Starter Kits
 
-### Go
+## Python
 
-+ [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
++ [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine
 
-### Python
+## Ruby
 
-+ [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
-+ [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
-+ [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
++ [ruby-telegram-bot-starter-kit](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit) - Ruby Telegram boilerplate for creating awesome bots
 
 ## Tools
 
