@@ -54,6 +54,10 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [integram](https://github.com/Requilence/integram) – Integrate Telegram into your workflow
 + [telegram](https://github.com/bot-api/telegram) - Implementation for the telegram bot API
 
+### Haskell
+
++ [haskell-telegram-api](https://github.com/klappvisor/haskell-telegram-api) - Telegram Bot API for Haskell
+
 ### Node.js
 
 + [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
