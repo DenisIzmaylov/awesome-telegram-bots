@@ -26,5 +26,5 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 ### Python
 
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
-
++ [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
 
