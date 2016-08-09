@@ -25,6 +25,10 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 + [gotelebot](https://github.com/eternnoir/gotelebot) – Implementation for the Telegram Bot API
 + [integram](https://integram.org/) – Integrate Telegram into your workflow
 
+### Node.js
+
++ [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
+
 ### Python
 
 + [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - A simple, but extensible Python implementation for the Telegram Bot API
