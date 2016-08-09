@@ -24,15 +24,16 @@ Also take a minute and have a look at some interesting channels and groups in [a
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
 
+### Node.js
+
++ [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA
+
 ### Ruby
 
 + [money_bot](https://github.com/m4rr/money_bot) - Simple currency converter bot with a well-designed UX
 
 ### Rust
 + [git4telegram](https://github.com/friktor/git4telegram) - Telegram bot for work with git
-
-### Node.js
-+ [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA
 
 ### Python
 
