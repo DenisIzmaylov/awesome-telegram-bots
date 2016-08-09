@@ -24,6 +24,7 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 + [integram](https://integram.org/) – Integrate Telegram into your workflow
 
 ### Python
+
 + [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - A simple, but extensible Python implementation for the Telegram Bot API
 
 ## Examples
