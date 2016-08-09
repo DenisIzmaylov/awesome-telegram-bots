@@ -18,6 +18,10 @@ Also take a minute and have a look at some interesting channels and groups in [a
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
 
+### Node.js
+
++ [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA
+
 ### Python
 
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
@@ -43,7 +47,6 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [telegram.link](https://github.com/enricostara/telegram.link) - enables to write once a client-application (whole or only the communication part) that runs both on mobile and desktop browsers and also on a Node.js server and connect to the Telegram data-centers via standard protocol and API
 + [node-telegram-bot](https://github.com/depoio/node-telegram-bot) - Client wrapper for Telegram Bot API (Under heavy development)
 + [telegram-node-bot](https://github.com/naltox/telegram-node-bot) - Node module for creating Telegram bots
-+ [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA.
 
 ### Python
 
