@@ -10,7 +10,9 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 
 ## Starter Kits
 
-+ Will be awesome soon.
+## Python
+
++ [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine
 
 ## Libraries
 
@@ -35,5 +37,3 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
 + [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
 + [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
-
-
