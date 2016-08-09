@@ -16,6 +16,7 @@ A curated list of examples, libraries and starter-kits for [Telegram](https://te
 
 + [telebot](https://github.com/tucnak/telebot) - Telegram bot framework written in Go
 + [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
++ [mtproto](https://github.com/sdidyk/mtproto) - MTProto implementation in Golang
 
 ## Examples
 
