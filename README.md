@@ -31,6 +31,9 @@ Also take a minute and have a look at some interesting channels and groups in [a
 ### Rust
 + [git4telegram](https://github.com/friktor/git4telegram) - Telegram bot for work with git
 
+### Node.js
++ [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA
+
 ### Python
 
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
