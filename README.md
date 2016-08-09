@@ -69,6 +69,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [telegram.link](https://github.com/enricostara/telegram.link) - enables to write once a client-application (whole or only the communication part) that runs both on mobile and desktop browsers and also on a Node.js server and connect to the Telegram data-centers via standard protocol and API
 + [node-telegram-bot](https://github.com/depoio/node-telegram-bot) - Client wrapper for Telegram Bot API (Under heavy development)
 + [telegram-node-bot](https://github.com/naltox/telegram-node-bot) - Node module for creating Telegram bots
++ [telegraf](https://github.com/telegraf/telegraf) - 📢 Telegram bot framework for Node.js
 
 ### Python
 
