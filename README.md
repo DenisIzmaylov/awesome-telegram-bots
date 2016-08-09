@@ -35,6 +35,7 @@ Collection of open source examples, libraries and starter-kits for [Telegram Bot
 + [telegram-mt-node](https://github.com/enricostara/telegram-mt-node) - Telegram MTProto library
 + [telegram.link](https://github.com/enricostara/telegram.link) - enables to write once a client-application (whole or only the communication part) that runs both on mobile and desktop browsers and also on a Node.js server and connect to the Telegram data-centers via standard protocol and API
 + [node-telegram-bot](https://github.com/depoio/node-telegram-bot) - Client wrapper for Telegram Bot API (Under heavy development)
++ [telegram-node-bot](https://github.com/naltox/telegram-node-bot) - Node module for creating Telegram bots
 
 ### Python
 
