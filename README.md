@@ -27,6 +27,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 ### Node.js
 
 + [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA
++ [motd](https://github.com/mikhail-angelov/telegram-bot-motd) - Small Telegram bot, live demo: SmartyMotdBot 
 
 ### Ruby
 
