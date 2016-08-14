@@ -51,6 +51,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 
 ### Go
 
++ [go-tgbot](https://github.com/rockneurotiko/go-tgbot) - Telegram API bot wrapper for Go (golang) Language! <3
 + [telebot](https://github.com/tucnak/telebot) - Telegram bot framework written in Go
 + [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 + [mtproto](https://github.com/sdidyk/mtproto) - MTProto implementation in Golang
