@@ -79,6 +79,10 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - A simple, but extensible Python implementation for the Telegram Bot API
 + [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 
+### Ruby
+
++ [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) - Ruby wrapper for Telegram's Bot API
+
 ## Starter Kits
 
 ### PHP
