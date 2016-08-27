@@ -29,6 +29,10 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA
 + [motd](https://github.com/mikhail-angelov/telegram-bot-motd) - Small Telegram bot, live demo: SmartyMotdBot 
 
+### PHP
+
++ [telegram-bank-bot](https://github.com/alimbekovKZ/telegrambankbot) - Virtual Assistant for banks
+
 ### Ruby
 
 + [money_bot](https://github.com/m4rr/money_bot) - Simple currency converter bot with a well-designed UX
