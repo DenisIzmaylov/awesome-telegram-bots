@@ -1,6 +1,6 @@
 # Awesome Telegram Bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Did you think to create a Telegram Bot? Or you have already did it and would like to improve your skills? This curated list helps you.
+Did you think to create a Telegram Bot? Do you already have it and would like to improve your skills? This curated collection will help you.
 
 That is a collection of Open Source Examples, Libraries and Starter Kits for [Telegram Bots](https://telegram.org/blog/bot-revolution) to speed up your learning process.
 
@@ -33,18 +33,18 @@ Also take a minute and have a look at some interesting channels and groups in [a
 
 + [telegram-bank-bot](https://github.com/alimbekovKZ/telegrambankbot) - Virtual Assistant for banks
 
+### Python
+
++ [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
++ [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
++ [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
+
 ### Ruby
 
 + [money_bot](https://github.com/m4rr/money_bot) - Simple currency converter bot with a well-designed UX
 
 ### Rust
 + [git4telegram](https://github.com/friktor/git4telegram) - Telegram bot for work with git
-
-### Python
-
-+ [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
-+ [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
-+ [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
 
 ## Libraries
 
