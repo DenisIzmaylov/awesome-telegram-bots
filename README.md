@@ -27,9 +27,10 @@ Also take a minute and have a look at some interesting channels and groups in [a
 ### Node.js
 
 + [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA
-+ [motd](https://github.com/mikhail-angelov/telegram-bot-motd) - Small Telegram bot, live demo: SmartyMotdBot 
++ [motd](https://github.com/mikhail-angelov/telegram-bot-motd) - Small Telegram bot, live demo: SmartyMotdBot
 + [hh-ru-telegram-bot](https://github.com/Pterko/hh-ru-telegram-bot) - Telegram bot for HeadHunter website
 + [multistager-bot](https://github.com/Qlean/multistager-bot) - Qlean MultiStager bot
++ [romochka_bembot](https://github.com/maksugr/romochka_bembot) - Telegram bot for fast playing with BEM
 
 ### PHP
 
