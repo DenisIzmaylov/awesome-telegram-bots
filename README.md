@@ -31,6 +31,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [hh-ru-telegram-bot](https://github.com/Pterko/hh-ru-telegram-bot) - Telegram bot for HeadHunter website
 + [multistager-bot](https://github.com/Qlean/multistager-bot) - Qlean MultiStager bot
 + [romochka_bembot](https://github.com/maksugr/romochka_bembot) - Telegram bot for fast playing with BEM
++ [svgo_bot](https://github.com/maksugr/svgo_bot) - Telegram bot for SVGO - svg minification
 
 ### PHP
 
@@ -41,6 +42,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
 + [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
 + [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
++ [hackernewsbot](https://github.com/phil-r/hackernewsbot) - Bot that posts new hot stories from Hacker News to telegram channel
 
 ### Ruby
 
