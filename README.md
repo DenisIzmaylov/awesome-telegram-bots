@@ -43,6 +43,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
 + [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
 + [hackernewsbot](https://github.com/phil-r/hackernewsbot) - Bot that posts new hot stories from Hacker News to telegram channel
++ [asciifacesbot](https://github.com/phil-r/asciifacesbot) -  Bot that allows you to append ascii faces to your messages ¯\\\_(ツ)\_/¯
 
 ### Ruby
 
