@@ -30,6 +30,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [motd](https://github.com/mikhail-angelov/telegram-bot-motd) - Small Telegram bot, live demo: SmartyMotdBot
 + [hh-ru-telegram-bot](https://github.com/Pterko/hh-ru-telegram-bot) - Telegram bot for HeadHunter website
 + [multistager-bot](https://github.com/Qlean/multistager-bot) - Qlean MultiStager bot
++ [romochka_bembot](https://github.com/maksugr/romochka_bembot) - Telegram bot for fast playing with BEM
 + [svgo_bot](https://github.com/maksugr/svgo_bot) - Telegram bot for SVGO - svg minification
 
 ### PHP
