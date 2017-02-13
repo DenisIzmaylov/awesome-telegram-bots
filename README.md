@@ -32,6 +32,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [multistager-bot](https://github.com/Qlean/multistager-bot) - Qlean MultiStager bot
 + [romochka_bembot](https://github.com/maksugr/romochka_bembot) - Telegram bot for fast playing with BEM
 + [svgo_bot](https://github.com/maksugr/svgo_bot) - Telegram bot for SVGO - svg minification
++ [png-to-webp-bot](https://github.com/Grebenschikov/pngtowebpbot) - Telegram bot for converting PNG to WEBP
 
 ### PHP
 
