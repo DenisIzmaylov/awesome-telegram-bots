@@ -33,6 +33,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 + [romochka_bembot](https://github.com/maksugr/romochka_bembot) - Telegram bot for fast playing with BEM
 + [svgo_bot](https://github.com/maksugr/svgo_bot) - Telegram bot for SVGO - svg minification
 + [png-to-webp-bot](https://github.com/Grebenschikov/pngtowebpbot) - Telegram bot for converting PNG to WEBP
++ [hash_tag_bot](https://github.com/SerjoPepper/hash_tag_bot) - subscribe to receive messages with a specified hash tags only from Super Groups
 
 ### PHP
 
