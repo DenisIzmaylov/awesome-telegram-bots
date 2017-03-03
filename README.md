@@ -6,6 +6,8 @@ That is a collection of Open Source Examples, Libraries and Starter Kits for [Te
 
 Also take a minute and have a look at some interesting channels and groups in [awesome-telegram-chats](https://github.com/A-gambit/awesome-telegram-chats).
 
+Do you know Telegram Bot with open sources which is not mentioned in this list? Please [tell us about this bot](https://github.com/DenisIzmaylov/awesome-telegram-bots/issues/new) or [Contribute](https://github.com/DenisIzmaylov/awesome-telegram-bots#contribution).
+
 ## Content
 
 1. [Examples](#examples)
