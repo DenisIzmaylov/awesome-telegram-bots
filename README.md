@@ -1,8 +1,10 @@
 # Awesome Telegram Bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Did you think to create a Telegram Bot? Do you already have it and would like to improve your skills? This curated collection will help you.
+Did you think to create a Telegram Bot?
 
-That is a collection of Open Source Examples, Libraries and Starter Kits for [Telegram Bots](https://telegram.org/blog/bot-revolution) to speed up your learning process.
+Do you already have it and would like to improve your skills?
+
+This curated collection will help you. In the list below you can find Open Source Examples, Libraries and Starter Kits for [Telegram Bots](https://telegram.org/blog/bot-revolution) to speed up your learning process.
 
 Also take a minute and have a look at some interesting channels and groups in [awesome-telegram-chats](https://github.com/A-gambit/awesome-telegram-chats).
 
@@ -25,6 +27,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ### Go
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
++ [AnChatBotGo](https://github.com/Perkovec/AnChatBotGo) 
 
 ### Node.js
 
@@ -92,11 +95,11 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ### Python
 
 + [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - A simple, but extensible Python implementation for the Telegram Bot API
-+ [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
++ [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can not refuse
 
 ### Ruby
 
-+ [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) - Ruby wrapper for Telegram's Bot API
++ [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) - Ruby wrapper for Telegram Bot API
 
 ## Starter Kits
 
