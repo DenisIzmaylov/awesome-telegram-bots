@@ -27,7 +27,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ### Go
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
-+ [AnChatBotGo](https://github.com/Perkovec/AnChatBotGo) 
++ [AnChatBotGo](https://github.com/Perkovec/AnChatBotGo) - Bot for anonymous communication
 
 ### Node.js
 
