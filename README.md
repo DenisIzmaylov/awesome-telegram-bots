@@ -54,6 +54,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [hackernewsbot](https://github.com/phil-r/hackernewsbot) - Bot that posts new hot stories from Hacker News to telegram channel
 + [asciifacesbot](https://github.com/phil-r/asciifacesbot) -  Bot that allows you to append ascii faces to your messages ¯\\\_(ツ)\_/¯
 + [gifdotbot](https://github.com/b00bl1k/gifdotbot) - With this bot you can search, send and upload your own GIFs
++ [passgenbot](https://github.com/MasterGroosha/telegram-xkcd-password-generator) - Readable (XKCD-style) passwords generator for Telegram
 
 ### Ruby
 
