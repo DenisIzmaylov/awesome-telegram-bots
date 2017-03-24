@@ -87,6 +87,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [gotelebot](https://github.com/eternnoir/gotelebot) – Implementation for the Telegram Bot API
 + [integram](https://github.com/Requilence/integram) – Integrate Telegram into your workflow
 + [telegram](https://github.com/bot-api/telegram) - Implementation for the telegram bot API
++ [go-tgbot](https://github.com/olebedev/go-tgbot) - Pure Golang telegram bot API wrapper, session-based router and middleware
 
 ### Haskell
 
