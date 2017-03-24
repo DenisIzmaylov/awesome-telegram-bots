@@ -40,6 +40,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [png-to-webp-bot](https://github.com/Grebenschikov/pngtowebpbot) - Telegram bot for converting PNG to WEBP
 + [hash_tag_bot](https://github.com/SerjoPepper/hash_tag_bot) - subscribe to receive messages with a specified hash tags only from Super Groups
 + [ArbeitBot](https://github.com/ArbeitBot/ArbeitBot) - First free open-source Telegram freelance market. Built by people for people.
++ [sasharapirabot](https://github.com/mnsrv/sasharapirabot) - Telegram bot butler helping me with random stuff. Can use this API: Telegram, Slack, Spotify, VK, LastFM, Instapaper
 
 ### PHP
 
