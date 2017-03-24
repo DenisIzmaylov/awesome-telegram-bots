@@ -41,6 +41,8 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [hash_tag_bot](https://github.com/SerjoPepper/hash_tag_bot) - subscribe to receive messages with a specified hash tags only from Super Groups
 + [ArbeitBot](https://github.com/ArbeitBot/ArbeitBot) - First free open-source Telegram freelance market. Built by people for people.
 + [sasharapirabot](https://github.com/mnsrv/sasharapirabot) - Telegram bot butler helping me with random stuff. Can use this API: Telegram, Slack, Spotify, VK, LastFM, Instapaper
++ [UncoverBot](https://uncover.now.sh/_src) - Show message data in JSON. [`@uncover_bot`](https://telegram.me/uncover) 
++ [epub2mobiBot](https://epub2mobi.now.sh/_src) - Bot for converting books from EPUB to MOBI format. [`@epub2mobi_bot`](https://telegram.me/epub2mobi_bot) 
 
 ### PHP
 
@@ -97,6 +99,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [telegram-node-bot](https://github.com/naltox/telegram-node-bot) - Node module for creating Telegram bots
 + [cycle-telegram](https://github.com/goodmind/cycle-telegram) - A Cycle.js driver for Telegram Bot API (Under development)
 + [telegraf](https://github.com/telegraf/telegraf) - 📢 Telegram bot framework for Node.js
++ [micro-bot](https://github.com/telegraf/micro-bot) - 🤖 Async Telegram microbots.
 
 ### Python
 
