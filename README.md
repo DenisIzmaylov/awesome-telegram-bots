@@ -103,6 +103,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [cycle-telegram](https://github.com/goodmind/cycle-telegram) - A Cycle.js driver for Telegram Bot API (Under development)
 + [telegraf](https://github.com/telegraf/telegraf) - 📢 Telegram bot framework for Node.js
 + [micro-bot](https://github.com/telegraf/micro-bot) - 🤖 Async Telegram microbots.
++ [telegram-mtproto](https://github.com/zerobias/telegram-mtproto) - Telegram MTProto library and client (WIP)
 
 ### Python
 
