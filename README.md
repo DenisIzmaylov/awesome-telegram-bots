@@ -24,6 +24,10 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 + [MrRoundRobin-example](https://github.com/MrRoundRobin/telegram.bot.examples) - example MrRoundRobin-bot
 
+### JAVA
+
++ [PikabuRobot](https://github.com/futurobot/PikabuRobot) - Unofficial telegram bot for Pikabu (popular russian entertaining website)
+
 ### Go
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
