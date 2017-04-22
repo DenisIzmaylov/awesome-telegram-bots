@@ -76,6 +76,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 + [MrRoundRobin-bot](https://github.com/MrRoundRobin/telegram.bot) - CSharp library to talk to Telegrams Bot API
 + [TLSharp](https://github.com/sochix/TLSharp) - Telegram client library implemented in CSharp, only basic functionality is currently implemented
++ [Chatcraft](https://github.com/Aecid/Chatcraft) -Open source telegram MMO RPG bot. Works on .net core (support Linux).
 
 ### Go
 
