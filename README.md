@@ -60,6 +60,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
 + [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
 + [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
++ [hackbot-pentesting](https://github.com/arbazkiraak/hackbot) - Bot to run automate tools from server
 + [hackernewsbot](https://github.com/phil-r/hackernewsbot) - Bot that posts new hot stories from Hacker News to telegram channel
 + [asciifacesbot](https://github.com/phil-r/asciifacesbot) -  Bot that allows you to append ascii faces to your messages ¯\\\_(ツ)\_/¯
 + [gifdotbot](https://github.com/b00bl1k/gifdotbot) - With this bot you can search, send and upload your own GIFs
