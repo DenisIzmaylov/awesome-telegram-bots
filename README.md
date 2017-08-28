@@ -65,7 +65,8 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [gifdotbot](https://github.com/b00bl1k/gifdotbot) - With this bot you can search, send and upload your own GIFs
 + [passgenbot](https://github.com/MasterGroosha/telegram-xkcd-password-generator) - Readable (XKCD-style) passwords generator for Telegram
 + [html-telegraph-poster](https://github.com/mercuree/html-telegraph-poster) - Python html to telegra.ph poster (telegram article service)
-+ [prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
++ [prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus 
++ [nosticker_bot](https://github.com/lorien/nosticker_bot) - Telegram bot that removes any sticker posted to the group.
 
 ### Ruby
 
