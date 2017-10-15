@@ -48,6 +48,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [UncoverBot](https://uncover.now.sh/_src) - Show message data in JSON. [`@uncover_bot`](https://telegram.me/uncover) 
 + [epub2mobiBot](https://epub2mobi.now.sh/_src) - Bot for converting books from EPUB to MOBI format. [`@epub2mobi_bot`](https://telegram.me/epub2mobi_bot)
 + [microgames](https://github.com/telegraf/microgames) - Telegram game platform example. [🐸 Play now](https://telegram.me/microgamesbot)
++ [the-guard-bot](https://github.com/TheDevs-Network/the-guard-bot) - Managing groups and protecting them from trolls and spammers.
 
 
 ### PHP
