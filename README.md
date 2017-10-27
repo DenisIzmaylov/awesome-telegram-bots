@@ -27,6 +27,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ### JAVA
 
 + [PikabuRobot](https://github.com/futurobot/PikabuRobot) - Unofficial telegram bot for Pikabu (popular russian entertaining website)
++ [MasterOfCoin](https://github.com/Brimill/MasterOfCoin) - Small Telegram bot for tracking one's personal finances
 
 ### Go
 
@@ -45,7 +46,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [hash_tag_bot](https://github.com/SerjoPepper/hash_tag_bot) - subscribe to receive messages with a specified hash tags only from Super Groups
 + [ArbeitBot](https://github.com/ArbeitBot/ArbeitBot) - First free open-source Telegram freelance market. Built by people for people.
 + [sasharapirabot](https://github.com/mnsrv/sasharapirabot) - Telegram bot butler helping me with random stuff. Can use this API: Telegram, Slack, Spotify, VK, LastFM, Instapaper
-+ [UncoverBot](https://uncover.now.sh/_src) - Show message data in JSON. [`@uncover_bot`](https://telegram.me/uncover) 
++ [UncoverBot](https://uncover.now.sh/_src) - Show message data in JSON. [`@uncover_bot`](https://telegram.me/uncover)
 + [epub2mobiBot](https://epub2mobi.now.sh/_src) - Bot for converting books from EPUB to MOBI format. [`@epub2mobi_bot`](https://telegram.me/epub2mobi_bot)
 + [microgames](https://github.com/telegraf/microgames) - Telegram game platform example. [🐸 Play now](https://telegram.me/microgamesbot)
 
