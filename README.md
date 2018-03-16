@@ -33,6 +33,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
 + [AnChatBotGo](https://github.com/Perkovec/AnChatBotGo) - Bot for anonymous communication
++ [prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
 
 ### Node.js
 
@@ -68,7 +69,6 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [gifdotbot](https://github.com/b00bl1k/gifdotbot) - With this bot you can search, send and upload your own GIFs
 + [passgenbot](https://github.com/MasterGroosha/telegram-xkcd-password-generator) - Readable (XKCD-style) passwords generator for Telegram
 + [html-telegraph-poster](https://github.com/mercuree/html-telegraph-poster) - Python html to telegra.ph poster (telegram article service)
-+ [prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
 + [nosticker_bot](https://github.com/lorien/nosticker_bot) - Telegram bot that removes any sticker posted to the group.
 + [daysandbox_bot](https://github.com/lorien/daysandbox_bot) - group bot that deletes all media/url messages from new users
 
