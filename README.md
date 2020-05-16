@@ -65,6 +65,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [hackbot-pentesting](https://github.com/arbazkiraak/hackbot) - Bot to run automate tools from server
 + [hackernewsbot](https://github.com/phil-r/hackernewsbot) - Bot that posts new hot stories from Hacker News to telegram channel
 + [asciifacesbot](https://github.com/phil-r/asciifacesbot) -  Bot that allows you to append ascii faces to your messages ¯\\\_(ツ)\_/¯
++ [DankBot](https://github.com/Rippr/DankBot) - Bot that sends, generates, and deep fries memes.
 + [gifdotbot](https://github.com/b00bl1k/gifdotbot) - With this bot you can search, send and upload your own GIFs
 + [passgenbot](https://github.com/MasterGroosha/telegram-xkcd-password-generator) - Readable (XKCD-style) passwords generator for Telegram
 + [html-telegraph-poster](https://github.com/mercuree/html-telegraph-poster) - Python html to telegra.ph poster (telegram article service)
