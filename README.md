@@ -23,6 +23,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ### DotNET
 
 + [MrRoundRobin-example](https://github.com/MrRoundRobin/telegram.bot.examples) - example MrRoundRobin-bot
++ [JenkinsJobManager](https://github.com/AlexanderPro/TelegramBotJenkinsJobManager) - Telegram bot that helps to manage jenkins jobs
 
 ### JAVA
 
