@@ -28,6 +28,8 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 + [PikabuRobot](https://github.com/futurobot/PikabuRobot) - Unofficial telegram bot for Pikabu (popular russian entertaining website)
 + [MasterOfCoin](https://github.com/Brimill/MasterOfCoin) - Small Telegram bot for tracking one's personal finances
++ [TrashEmail_Bot](https://github.com/r0hi7/Trashemail) - Telegram based Disposable email bot that respects your privacy.
+
 
 ### Go
 
