@@ -116,6 +116,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [telegram-mtproto](https://github.com/zerobias/telegram-mtproto) - Telegram MTProto library and client (WIP)
 + [tgfancy](https://github.com/GochoMugo/tgfancy) - A Fancy, Higher-Level Wrapper for Telegram Bot API
 + [@mtproto/core](https://github.com/alik0211/mtproto-core) – Telegram API (MTProto) client library for browser and nodejs
++ [urban-bot](https://github.com/urban-bot/urban-bot) - Declarative library based on React.js.
 
 ### Python
 
@@ -131,15 +132,20 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 ## Starter Kits
 
+### Node.js
+
++ [urban-bot-starter-typescript](https://github.com/urban-bot/urban-bot-starter-typescript) - quick start to use urban-bot library with full typescript support
++ [urban-bot-starter-javascript](https://github.com/urban-bot/urban-bot-starter-javascript) - quick start to use urban-bot library
+
 ### PHP
 
 + [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) - pure PHP Telegram Bot, fully extensible via plugins
 
-## Python
+### Python
 
 + [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine
 
-## Ruby
+### Ruby
 
 + [ruby-telegram-bot-starter-kit](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit) - Ruby Telegram boilerplate for creating awesome bots
 
