@@ -129,6 +129,10 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) - Ruby wrapper for Telegram Bot API
 + [rubogram](https://github.com/4ndv/rubogram) - Tiny ruby wrapper for Telegram Bot API
 
+### FreePascal/Lazarus
++ [fp-telegram](https://github.com/Al-Muhandis/fp-telegram) - FreePascal wrapeer for Telegram Bot API
++ [brook-telegram](https://github.com/Al-Muhandis/brook-telegram) - Telegram plugin/class for BrookFramework
+
 ## Starter Kits
 
 ### PHP
