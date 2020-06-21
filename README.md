@@ -71,7 +71,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
 + [nosticker_bot](https://github.com/lorien/nosticker_bot) - Telegram bot that removes any sticker posted to the group.
 + [daysandbox_bot](https://github.com/lorien/daysandbox_bot) - group bot that deletes all media/url messages from new users
-+ [devspace_brobot](https://github.com/alias-rahil/csi-brobot) - This bot can send memes, do math, run shell commands and much more!
++ [csibrobot](https://github.com/csivitu/brobot) - This bot can send memes, do math, run shell commands and much more!
 
 ### Ruby
 
