@@ -145,7 +145,10 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 ## Tools
 
-+ [Botan.io](http://botan.io/) - The most advanced analytics for your Telegram bot by Yandex
++ [Chatbase](https://chatbase.com/products/virtual-agent-analytics/) - Analytics Tool by Google
++ [Dashbot](https://www.dashbot.io)
++ [botanalytics](https://botanalytics.co/) - Modern looking Analytics tool
++ [Amplitude](https://amplitude.com/) - Free for up to 10m actions per Month
 
 ## Contribution
 
