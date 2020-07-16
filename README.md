@@ -71,6 +71,8 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
 + [nosticker_bot](https://github.com/lorien/nosticker_bot) - Telegram bot that removes any sticker posted to the group.
 + [daysandbox_bot](https://github.com/lorien/daysandbox_bot) - group bot that deletes all media/url messages from new users
++ [joinhider_bot](https://github.com/lorien/joinhider_bot) - bot to delete messages about user has joined or left chat
++ [watchdog_robot](https://github.com/lorien/watchdog_robot) - bot to delete links, stickers, GIFs, video, photo and other types of messages in chat
 
 ### Ruby
 
