@@ -27,7 +27,6 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ### JAVA
 
 + [PikabuRobot](https://github.com/futurobot/PikabuRobot) - Unofficial telegram bot for Pikabu (popular russian entertaining website)
-+ [MasterOfCoin](https://github.com/Brimill/MasterOfCoin) - Small Telegram bot for tracking one's personal finances
 
 ### Go
 
