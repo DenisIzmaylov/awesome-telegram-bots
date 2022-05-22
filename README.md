@@ -56,6 +56,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 + [telegram-bank-bot](https://github.com/alimbekovKZ/telegrambankbot) - Virtual Assistant for banks
 + [titsbot](https://github.com/kefzce/titsbot) - (Warning! Adult Content) Simple PHP bot - Photo, GIFs, Video, Rating, etc.
++ [telegram-random-chat-bot](https://github.com/thedriedwater/telegram-random-chat-bot) - Full featured random chat bot
 
 ### Python
 
