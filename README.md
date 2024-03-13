@@ -34,6 +34,10 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
 + [AnChatBotGo](https://github.com/Perkovec/AnChatBotGo) - Bot for anonymous communication
 
+### Kotlin
+
++ [feedbackbot](https://github.com/ktgram/feedback-bot) - A bot to establish two-way communication with users.
+
 ### Node.js
 
 + [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA
@@ -102,6 +106,10 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ### Haskell
 
 + [haskell-telegram-api](https://github.com/klappvisor/haskell-telegram-api) - Telegram Bot API for Haskell
+
+### Kotlin
+
++ [KtGram](https://github.com/vendelieu/telegram-bot) Telegram Bot API wrapper with handy Kotlin DSL.
 
 ### Node.js
 
