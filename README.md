@@ -138,6 +138,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ## Python
 
 + [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine
++ [teledigest](https://github.com/igoropaniuk/teledigest) - LLM-driven framework for building Telegram digest and channel-analysis bots
 
 ## Ruby
 
