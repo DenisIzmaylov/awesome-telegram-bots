@@ -146,6 +146,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ## Tools
 
 + [Botan.io](http://botan.io/) - The most advanced analytics for your Telegram bot by Yandex
++ [Vedika API](https://vedika.io) - AI-powered Vedic astrology REST API with 108+ endpoints for building Telegram astrology bots
 
 ## Contribution
 
