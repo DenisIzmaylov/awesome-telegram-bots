@@ -48,6 +48,8 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [sasharapirabot](https://github.com/mnsrv/sasharapirabot) - Telegram bot butler helping me with random stuff. Can use this API: Telegram, Slack, Spotify, VK, LastFM, Instapaper
 + [UncoverBot](https://uncover.now.sh/_src) - Show message data in JSON. [`@uncover_bot`](https://telegram.me/uncover)
 + [epub2mobiBot](https://epub2mobi.now.sh/_src) - Bot for converting books from EPUB to MOBI format. [`@epub2mobi_bot`](https://telegram.me/epub2mobi_bot)
+
++ [QuickTools Bot](https://github.com/Cuuper22/free-telegram-bot-tools) - Multi-tool Telegram bot: website screenshots, web scraping, AI text, QR codes, website audits. Grammy framework, Telegram Stars payments. [`@Quuicktools_bot`](https://telegram.me/Quuicktools_bot)
 + [microgames](https://github.com/telegraf/microgames) - Telegram game platform example. [🐸 Play now](https://telegram.me/microgamesbot)
 + [Ver.bot](https://github.com/RPing/Ver.bot) - Subscribe projects, and notify you about new version release. [`@VbotVbot`](https://telegram.me/VbotVbot)
 
@@ -154,3 +156,5 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
    ```Add confstat bot to Examples / Python```
 3. Provide URL to the repo on GitHub or BitBucket (or something else) instead of official web-site URL.
 4. For new programming languages use alphabet order.
+
++ [QuickTools Bot](https://github.com/Cuuper22/free-telegram-bot-tools) - Multi-tool Telegram bot: web scraping, screenshots, AI text generation, QR codes, website grading. Grammy framework. [`@Quuicktools_bot`](https://telegram.me/Quuicktools_bot)
