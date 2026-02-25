@@ -50,6 +50,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [epub2mobiBot](https://epub2mobi.now.sh/_src) - Bot for converting books from EPUB to MOBI format. [`@epub2mobi_bot`](https://telegram.me/epub2mobi_bot)
 + [microgames](https://github.com/telegraf/microgames) - Telegram game platform example. [🐸 Play now](https://telegram.me/microgamesbot)
 + [Ver.bot](https://github.com/RPing/Ver.bot) - Subscribe projects, and notify you about new version release. [`@VbotVbot`](https://telegram.me/VbotVbot)
++ [NoxBaseBot](https://github.com/dayi1000/nox-base-bot) - Base chain crypto intelligence bot with real-time prices, charts, whale alerts, gas tracking, and portfolio management. [`@NoxBaseBot`](https://t.me/NoxBaseBot)
 
 
 ### PHP
