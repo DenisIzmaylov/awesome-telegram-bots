@@ -146,6 +146,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ## Tools
 
 + [Botan.io](http://botan.io/) - The most advanced analytics for your Telegram bot by Yandex
++ [OpenPaw](https://github.com/daxaur/openpaw) - Open-source CLI tool (`npx pawmode`) with a built-in Telegram bridge for chatting with Claude from your phone. 38 skills including email, calendar, Spotify, smart home, GitHub, Slack and more.
 
 ## Contribution
 
