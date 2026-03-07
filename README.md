@@ -36,6 +36,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 ### Node.js
 
++ [GhostClaw](https://github.com/b1rdmania/ghostclaw) - AI agent you message on Telegram like a co-worker. Reads email, does research, runs scheduled tasks. Built on Claude Code.
 + [telegram-channel-bot](https://github.com/A11oW/telegramChannelBot) - Telegram bot that sends a message to the channel when fires webhook in JIRA
 + [motd](https://github.com/mikhail-angelov/telegram-bot-motd) - Small Telegram bot, live demo: SmartyMotdBot
 + [hh-ru-telegram-bot](https://github.com/Pterko/hh-ru-telegram-bot) - Telegram bot for HeadHunter website
