@@ -10,6 +10,7 @@ Also take a minute and have a look at some interesting channels and groups in [a
 
 Do you know Telegram Bot with open sources which is not mentioned in this list? Please [tell us about this bot](https://github.com/DenisIzmaylov/awesome-telegram-bots/issues/new) or [Contribute](https://github.com/DenisIzmaylov/awesome-telegram-bots#contribution).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Telegram bot workflow orchestration, automated messaging pipeline management, and multi-agent coordination. MIT licensed.
 ## Content
 
 1. [Examples](#examples)
