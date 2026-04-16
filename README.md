@@ -146,6 +146,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ## Tools
 
 + [Botan.io](http://botan.io/) - The most advanced analytics for your Telegram bot by Yandex
++ [ResumeAI Bot](https://t.me/topbestworkerbot) — AI career assistant for Telegram. Tailors resumes to job descriptions in 30 sec, generates cover letters, preps for interviews. Auto-applies to hh.ru & LinkedIn. [Website](https://resumeai-bot.ru)
 
 ## Contribution
 
