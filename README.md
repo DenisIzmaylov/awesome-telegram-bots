@@ -146,6 +146,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ## Tools
 
 + [Botan.io](http://botan.io/) - The most advanced analytics for your Telegram bot by Yandex
++ [Cyber Collector](https://t.me/cybercollectorbot) - Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## Contribution
 
