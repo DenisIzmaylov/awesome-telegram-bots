@@ -72,6 +72,8 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [nosticker_bot](https://github.com/lorien/nosticker_bot) - Telegram bot that removes any sticker posted to the group.
 + [daysandbox_bot](https://github.com/lorien/daysandbox_bot) - group bot that deletes all media/url messages from new users
 
++ [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with ML ensemble, pump scanner, Grid/DCA bots, 12 exchanges. Telegram control panel for monitoring and trading
+
 ### Ruby
 
 + [money_bot](https://github.com/m4rr/money_bot) - Simple currency converter bot with a well-designed UX
