@@ -45,6 +45,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [png-to-webp-bot](https://github.com/Grebenschikov/pngtowebpbot) - Telegram bot for converting PNG to WEBP
 + [hash_tag_bot](https://github.com/SerjoPepper/hash_tag_bot) - subscribe to receive messages with a specified hash tags only from Super Groups
 + [ArbeitBot](https://github.com/ArbeitBot/ArbeitBot) - First free open-source Telegram freelance market. Built by people for people.
++ [DeFiKit Bot Maker](https://github.com/nousresearch/defikit-bot-maker) - Telegram bot for creating and deploying ERC-20 tokens, adding liquidity to DEX pools, managing wallets, and switching chains. TypeScript, MIT.
 + [sasharapirabot](https://github.com/mnsrv/sasharapirabot) - Telegram bot butler helping me with random stuff. Can use this API: Telegram, Slack, Spotify, VK, LastFM, Instapaper
 + [UncoverBot](https://uncover.now.sh/_src) - Show message data in JSON. [`@uncover_bot`](https://telegram.me/uncover)
 + [epub2mobiBot](https://epub2mobi.now.sh/_src) - Bot for converting books from EPUB to MOBI format. [`@epub2mobi_bot`](https://telegram.me/epub2mobi_bot)
