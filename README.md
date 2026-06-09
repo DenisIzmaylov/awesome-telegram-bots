@@ -146,6 +146,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ## Tools
 
 + [Botan.io](http://botan.io/) - The most advanced analytics for your Telegram bot by Yandex
++ [tgwatch](https://github.com/assinscreedFC/tgwatch) - Zero-infra health monitoring for aiogram bots and Telethon userbots: account health (restricted/banned/dead session), FloodWait tracking, native Telegram alerts. Python.
 
 ## Contribution
 
