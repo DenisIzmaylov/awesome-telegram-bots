@@ -71,6 +71,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
 + [nosticker_bot](https://github.com/lorien/nosticker_bot) - Telegram bot that removes any sticker posted to the group.
 + [daysandbox_bot](https://github.com/lorien/daysandbox_bot) - group bot that deletes all media/url messages from new users
++ [codex-hud](https://github.com/aaamosh/codex-hud) - [Open Source](https://github.com/aaamosh/codex-hud) Telegram bot for one-to-one matching of OpenAI Codex referral links (MIT)
 
 ### Ruby
 
@@ -146,6 +147,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ## Tools
 
 + [Botan.io](http://botan.io/) - The most advanced analytics for your Telegram bot by Yandex
++ [codex-reset](https://github.com/aaamosh/codex-reset) - CLI tool for consuming banked rate-limit reset credits from the OpenAI Codex API, for headless Linux users (MIT)
 
 ## Contribution
 
