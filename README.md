@@ -33,6 +33,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 + [jarvisbot](https://github.com/ejamesc/jarvisbot) - Telegram bot for friends by ejamesc
 + [AnChatBotGo](https://github.com/Perkovec/AnChatBotGo) - Bot for anonymous communication
++ [CoinPingBot](https://github.com/SeigeC/coinping-bot) - Multi-condition crypto price alerts: price thresholds, 24h % change and exchange spreads. Built with telebot + CoinGecko API.
 
 ### Node.js
 
