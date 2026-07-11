@@ -50,6 +50,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [epub2mobiBot](https://epub2mobi.now.sh/_src) - Bot for converting books from EPUB to MOBI format. [`@epub2mobi_bot`](https://telegram.me/epub2mobi_bot)
 + [microgames](https://github.com/telegraf/microgames) - Telegram game platform example. [🐸 Play now](https://telegram.me/microgamesbot)
 + [Ver.bot](https://github.com/RPing/Ver.bot) - Subscribe projects, and notify you about new version release. [`@VbotVbot`](https://telegram.me/VbotVbot)
++ [Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot) - Apache-2.0 group bot for photo-backed weekly weight goals, charts, reminders, 53 achievements, and nine natural localizations. [`@my_weight_goal_bot`](https://t.me/my_weight_goal_bot)
 
 
 ### PHP
