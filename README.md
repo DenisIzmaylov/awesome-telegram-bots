@@ -59,6 +59,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 ### Python
 
++ [quit-sponsor-bot](https://github.com/metrox-eth/quit-sponsor-bot) - AI quit-smoking sponsor with persistent memory: stdlib-only single file, consent gate, encrypted per-user logbook with real export and delete, seven languages, crisis fallbacks to human helplines
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
 + [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
 + [telegram-plexbot](https://github.com/brownsmart/telegram-plexbot) - Pull data from Plex API to send as messages to Telegram users
