@@ -72,6 +72,9 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [nosticker_bot](https://github.com/lorien/nosticker_bot) - Telegram bot that removes any sticker posted to the group.
 + [daysandbox_bot](https://github.com/lorien/daysandbox_bot) - group bot that deletes all media/url messages from new users
 
++ [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with video, original-file, and MP3 delivery, Docker installation, automatic updates, nightly yt-dlp maintenance, and rollback.
++ [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Self-hosted Telegram group bot that automatically turns supported video links into native posts with quiet reactions, media reuse, automatic updates, and rollback.
+
 ### Ruby
 
 + [money_bot](https://github.com/m4rr/money_bot) - Simple currency converter bot with a well-designed UX
