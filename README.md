@@ -51,7 +51,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [microgames](https://github.com/telegraf/microgames) - Telegram game platform example. [🐸 Play now](https://telegram.me/microgamesbot)
 + [Ver.bot](https://github.com/RPing/Ver.bot) - Subscribe projects, and notify you about new version release. [`@VbotVbot`](https://telegram.me/VbotVbot)
 
-
++ [CryptoHelper](https://github.com/masik6565-droid/crypto-helper) - Free crypto prices, Fear & Greed index, profit calculator, P2P info. [\З\а\п\у\с\к\и\т\е](https://t.me/Crypto_scanningbit_bot)
 ### PHP
 
 + [telegram-bank-bot](https://github.com/alimbekovKZ/telegrambankbot) - Virtual Assistant for banks
