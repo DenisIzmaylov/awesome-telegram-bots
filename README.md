@@ -146,6 +146,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 ## Tools
 
 + [Botan.io](http://botan.io/) - The most advanced analytics for your Telegram bot by Yandex
++ [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON feed and alerts on Telegram only for new entries passing a filter, no database needed
 
 ## Contribution
 
