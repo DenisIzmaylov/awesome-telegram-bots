@@ -123,6 +123,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can not refuse
 + [aiogram](https://github.com/aiogram/aiogram) - Is are pretty simple and fully asynchronously library for Telegram Bot API
 + [aiotg](https://pypi.python.org/pypi/aiotg/0.7.16) - Asynchronous Python API for building Telegram bots
++ [GoyGram](https://github.com/GoyGram/GoyGram) - Unified Bot API + MTProto framework with a Rust crypto/codec core
 
 ### Ruby
 
