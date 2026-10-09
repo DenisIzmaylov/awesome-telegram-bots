@@ -131,6 +131,10 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 ## Starter Kits
 
+### Node.js
+
++ [livepair-bots](https://github.com/livepairai/livepair-bots) - Zero-dependency AI image/video bot starter — long-poll Telegram bot, Discord /imagine+/video, n8n workflows
+
 ### PHP
 
 + [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) - pure PHP Telegram Bot, fully extensible via plugins
