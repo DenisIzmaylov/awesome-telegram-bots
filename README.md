@@ -71,6 +71,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
 + [nosticker_bot](https://github.com/lorien/nosticker_bot) - Telegram bot that removes any sticker posted to the group.
 + [daysandbox_bot](https://github.com/lorien/daysandbox_bot) - group bot that deletes all media/url messages from new users
++ [telegram-stars-checkout](https://github.com/kleogeos/telegram-stars-checkout) - Fulfillment responder for selling digital goods via Telegram Stars (XTR), including recurring subscriptions — no bank/card/KYC needed on the selling side
 
 ### Ruby
 
@@ -154,3 +155,4 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
    ```Add confstat bot to Examples / Python```
 3. Provide URL to the repo on GitHub or BitBucket (or something else) instead of official web-site URL.
 4. For new programming languages use alphabet order.
+
