@@ -58,6 +58,7 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 + [titsbot](https://github.com/kefzce/titsbot) - (Warning! Adult Content) Simple PHP bot - Photo, GIFs, Video, Rating, etc.
 
 ### Python
++ [sticker-commenter-bot](https://github.com/kosoyyagent/sticker-commenter-bot) - Bot that auto-posts a sticker from a chosen pack as a comment under every new channel post; configurable delay. [Live demo](https://t.me/stickerdemo_k1)
 
 + [confstat-bot](https://github.com/CubexX/confstat-bot) - Statistics for telegram groups https://stat.cubexx.xyz
 + [ns-bot](https://github.com/eigenein/ns-bot) - Unofficial journey planner for Nederlandse Spoorwegen trains
